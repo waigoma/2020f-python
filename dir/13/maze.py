@@ -1,4 +1,3 @@
-# 20K0119 久保田 和市
 # 問題[6]
 from dataclasses import dataclass, field
 
